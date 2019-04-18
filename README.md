@@ -4,4 +4,5 @@ The problems are developed by the data scientist at DataCamp and not created by 
 Some of the project highlights are 
 
 Major League Baseball Statcast analysis on Aaron Judge HomeRun Pitches 
-https://user-images.githubusercontent.com/44904887/56397686-2020fc00-6202-11e9-84fe-c45fb2afa74c.png
+
+![pic](https://user-images.githubusercontent.com/44904887/56397799-f87e6380-6202-11e9-9e88-3b976acb9e84.png)
