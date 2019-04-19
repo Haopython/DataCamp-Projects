@@ -10,7 +10,7 @@ Some of the project highlights are:
 
 ![graph](https://user-images.githubusercontent.com/44904887/56402796-08567180-621c-11e9-9418-4165d96a528f.png)
 
-### Cryptocurrency Analysis and Market Share
+### Cryptocurrency Market Share and Volatility
 
 ![graphs](https://user-images.githubusercontent.com/44904887/56403508-e3afc900-621e-11e9-92ca-cc7523873393.png)
 
