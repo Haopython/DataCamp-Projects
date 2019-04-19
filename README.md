@@ -14,3 +14,8 @@ Some of the project highlights are:
 
 ![graphs](https://user-images.githubusercontent.com/44904887/56403508-e3afc900-621e-11e9-92ca-cc7523873393.png)
 
+### DrSemmelweis Discovers Handwashing to Eliminate Disease at Birth
+
+![plot](https://user-images.githubusercontent.com/44904887/56403636-82d4c080-621f-11e9-88a5-571d74690c7e.png)
+
+Click the Project folder to see all the cool projects!
