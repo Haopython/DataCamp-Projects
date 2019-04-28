@@ -1,5 +1,5 @@
 
-These are practice problems I worked at DataCamp! The problems are developed by the data scientist at DataCamp. I completed them with amazing speed and accuracy.
+
 Some of the project highlights are:
 
 ### Major League Baseball Statcast Analysis on Aaron Judge HomeRun Pitches 
